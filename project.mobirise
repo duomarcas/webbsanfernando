@@ -774,7 +774,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bosquesdesanfernando-3-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -793,7 +793,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bosquesdesanfernando-2-1920x1280.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
