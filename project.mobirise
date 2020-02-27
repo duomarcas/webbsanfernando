@@ -754,7 +754,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/bosquesdesanfernando-1-1920x1282.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -773,8 +773,8 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bosquesdesanfernando-3-1920x1280.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
